@@ -1,32 +1,50 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Dicee
+# Dicee – My First iOS App 🎲
 
-## Our Goal
+This is my **first iOS app** created as part of my Swift learning journey. While following the [App Brewery Complete iOS Bootcamp](https://www.appbrewery.co/), I built this app to practice core Swift concepts, Xcode functionality, and basic UI/UX design.
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+---
 
-## What you will create
+## About the App
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+Dicee is a simple Las Vegas-style dice roller. You can roll the dice:
 
+- By pressing a button  
+- Or by shaking your iPhone  
 
-## What you will learn
+It’s a fun, interactive way to **learn programming fundamentals** while making a usable app.
 
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+---
 
+## Learning Goals & Achievements
 
+While building this app, I learned:
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+- How to clone and work with an Xcode project from GitHub  
+- Connecting Interface Builder elements to code using `IBActions` and `IBOutlets`  
+- Using Swift constants, variables, and arrays  
+- Implementing randomisation in Swift  
+- Debugging and testing with the Xcode console  
+- Writing clean, commented, and structured code  
 
-![End Banner](Documentation/readme-end-banner.png)
+This project marked the start of my **iOS development journey**, giving me confidence to build more advanced apps in Swift.
 
-# Dice-iOS-Swift
+---
+
+## Screenshots / Demo
+
+> Include screenshots of your Dicee app here  
+> Example:  
+> ![Dice Screen](Documentation/DiceScreenshot.png)
+
+---
+
+## Getting Started
+
+To run this app locally:
+
+1. Clone this repository:  
+
+```bash
+git clone https://github.com/Rehan1078/Dice-iOS-Swift.git
